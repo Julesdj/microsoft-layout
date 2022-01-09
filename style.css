@@ -1,0 +1,43 @@
+header {
+    background-color: white;
+    height: 2em;
+    padding: 1em;
+}
+
+main {
+    background-color: white;
+    margin: auto;
+    padding: 1em 4em 4em 4em;
+    text-align: center;
+}
+
+nav {
+    margin: auto;
+    padding-left: 3em;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+}
+
+nav a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+.topbanner img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+span {
+    display: inline-block;
+}
